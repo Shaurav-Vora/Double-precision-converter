@@ -25,32 +25,32 @@ The *executable file* is located in **"~\Double precision converter\dist\main.ex
 
 Enter the first bit indicating the sign:
 
-### Sign
+1. ### Sign
 ```Python
 Enter a 0 or 1 for sign (0 means positive and 1 means negative):
 0
 ```
-### Output
+#### Output
 ```Python
 Positive
 ```
-### Characteristic
+2. ### Characteristic
 ```Python
 Enter the next 11 characteristic bits (spaces are allowed):
 10000000011
 ```
-### Output
+#### Output
 ```Python
 The 11 bit sequence represents the number 1027
 The characteristic is 16
 ```
 
-### Mantissa
+3. ### Mantissa
 ```Python
 Enter the next 52 mantissa bits (spaces are allowed):
 1011100100010000000000000000000000000000000000000000
 ```
- ### Output
+ #### Output
  ```Python
 The mantissa is 1.722900390625
 
