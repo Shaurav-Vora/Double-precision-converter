@@ -24,7 +24,9 @@ The formula used to calculate the floating point number from the 64 bit is as fo
 The *executable file* is located in **"~\Double precision converter\dist\main.exe"**
 
 Enter the first bit indicating the sign:
-`Enter a 0 or 1 for sign (0 means positive and 1 means negative):`
+
+```Python
+Enter a 0 or 1 for sign (0 means positive and 1 means negative):```
 ![Math Expression](Images/step-1.png)
 
 Enter the next 11 characteristic bits (spaces are allowed):
