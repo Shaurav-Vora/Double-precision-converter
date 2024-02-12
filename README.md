@@ -6,7 +6,7 @@
 
  - Sign bit: 1 bit
  - Characteristic: 11 bits
- - Significand precision: 53 bits (52 explicitly stored)
+ - Mantissa: 52 bits
 
 ### Example
 If you understand how to works skip to 
