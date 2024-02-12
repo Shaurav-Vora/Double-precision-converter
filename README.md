@@ -25,12 +25,12 @@ The *executable file* is located in **"~\Double precision converter\dist\main.ex
 
 Enter the first bit indicating the sign:
 
-![Math Expression](Images/IEEE_formula.png)
+![Math Expression](Images/step-1.png)
 
 Enter the next 11 characteristic bits (spaces are allowed):
 
-![Math Expression](Images/IEEE_formula.png)
+![Math Expression](Images/step-2.png)
 
 Enter the next 52 mantissa bits (spaces are allowed):
 
-![Math Expression](Images/IEEE_formula.png)
+![Math Expression](Images/step-3.png)
