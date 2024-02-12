@@ -23,5 +23,12 @@ The formula used to calculate the floating point number from the 64 bit is as fo
 ## Program usage
 Enter the first bit indicating the sign:
 
+![Math Expression](Images/IEEE_formula.png)
 
-Enter the next 11 characteristic bits (Spaces are allowed):
+Enter the next 11 characteristic bits (spaces are allowed):
+
+![Math Expression](Images/IEEE_formula.png)
+
+Enter the next 52 mantissa bits (spaces are allowed):
+
+![Math Expression](Images/IEEE_formula.png)
