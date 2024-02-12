@@ -9,13 +9,17 @@
  - Significand precision: 53 bits (52 explicitly stored)
 
 ### Example
-
+If you understand how to works skip to 
 0 10111001000 1011100100010000000000000000000000000000000000000000
 
-The first bit is a sign indicator.
-This is followed by an 11-bit exponent, called the characteristic
-52-bit binary fraction, called the mantissa.
+The first bit is a sign indicator, denoted *s*.
+This is followed by an 11-bit exponent, denoted as *c*,called the characteristic
+52-bit binary fraction, denoted as *f*,called the mantissa.
 
 The formula used to calculate the floating point number from the 64 bit is as follows:
 
 ![Math Expression](IEEE_formula.png)
+
+## Program usage
+Enter the first bit indicating the sign:
+
