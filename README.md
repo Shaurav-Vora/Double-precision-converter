@@ -23,3 +23,5 @@ The formula used to calculate the floating point number from the 64 bit is as fo
 ## Program usage
 Enter the first bit indicating the sign:
 
+
+Enter the next 11 characteristic bits (Spaces are allowed):
