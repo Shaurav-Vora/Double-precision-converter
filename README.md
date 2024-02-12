@@ -18,7 +18,7 @@ This is followed by an 11-bit exponent, denoted as *c*,called the characteristic
 
 The formula used to calculate the floating point number from the 64 bit is as follows:
 
-![Math Expression](IEEE_formula.png)
+![Math Expression](Images/IEEE_formula.png)
 
 ## Program usage
 Enter the first bit indicating the sign:
