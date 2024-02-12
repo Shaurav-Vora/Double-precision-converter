@@ -21,7 +21,7 @@ The formula used to calculate the floating point number from the 64 bit is as fo
 ![Math Expression](Images/IEEE_formula.png)
 
 ## Program usage
-The program file is located in "~\Double precision converter\dist\main.exe"
+The *executable file* is located in **"~\Double precision converter\dist\main.exe"**
 
 Enter the first bit indicating the sign:
 
