@@ -18,4 +18,4 @@ This is followed by an 11-bit exponent, called the characteristic
 
 The formula used to calculate the floating point number from the 64 bit is as follows:
 
-\((-1)^s \times 2^{c-1023} \times (1 + f)\)
+![Math Expression](IEEE_formula.png)
