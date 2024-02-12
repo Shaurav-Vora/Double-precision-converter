@@ -9,7 +9,7 @@
  - Mantissa: 52 bits
 
 ### Example
-If you understand how to works skip to 
+Consider the following 64-bit number:
 0 10111001000 1011100100010000000000000000000000000000000000000000
 
 The first bit is a sign indicator, denoted *s*.
