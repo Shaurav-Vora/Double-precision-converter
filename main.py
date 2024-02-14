@@ -61,7 +61,8 @@ def mantissa_of_number():
             final_mantissa = 1+decimal
             if valid_input:
                 break
-    print(f"The mantissa is {final_mantissa}\n")
+    print(f"The mantissa is {decimal}\n")
+    print(f"(1 + f) is {final_mantissa}\n")
     return final_mantissa
 
 run_program = True
